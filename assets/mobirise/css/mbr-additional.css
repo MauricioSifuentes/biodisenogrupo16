@@ -1840,6 +1840,9 @@ body {
 .cid-rAdK6KSVMU .mbr-section-btn {
   color: #232323;
 }
+.cid-rAdK6KSVMU H3 {
+  color: #232323;
+}
 .cid-rAdKd7u2d3 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2824,8 +2827,6 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rAhsHEOX8C {
-  padding-top: 30px;
-  padding-bottom: 30px;
   background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-rAhsHEOX8C .mbr-section-subtitle {
@@ -2971,8 +2972,8 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rAhtaMECrm {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 .cid-rAhtaMECrm .line {
@@ -2996,7 +2997,7 @@ body {
 .cid-rAhteWYqC5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #f7ed4a;
 }
 .cid-rAhteWYqC5 h4 {
   font-weight: 500;
@@ -3037,9 +3038,13 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
+.cid-rAhteWYqC5 .card-title,
+.cid-rAhteWYqC5 .card-img {
+  color: #232323;
+}
 .cid-rAhtczm3QE {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rAhtczm3QE .line {
@@ -3063,7 +3068,7 @@ body {
 .cid-rAhtftT4Th {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #f7ed4a;
 }
 .cid-rAhtftT4Th h4 {
   font-weight: 500;
@@ -3105,8 +3110,8 @@ body {
   margin-bottom: 0;
 }
 .cid-rAhtdxkfGk {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 .cid-rAhtdxkfGk .line {
@@ -3130,7 +3135,7 @@ body {
 .cid-rAhtfZ7buA {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #f7ed4a;
 }
 .cid-rAhtfZ7buA h4 {
   font-weight: 500;
@@ -3168,6 +3173,117 @@ body {
   padding-top: 1rem;
 }
 .cid-rAhtfZ7buA .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rAhLDQdKEi {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f7ed4a;
+}
+.cid-rAhLDQdKEi h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rAhLDQdKEi p {
+  color: #ffffff;
+}
+.cid-rAhLDQdKEi .card {
+  margin-bottom: 2rem;
+}
+.cid-rAhLDQdKEi .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rAhLDQdKEi .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rAhLDQdKEi .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rAhLDQdKEi .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rAhLDQdKEi .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rAhLDQdKEi .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rAhLDQdKEi .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rAhMb30mfi {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rAhMb30mfi .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rAhMb30mfi .section-text {
+  padding: 2rem 0;
+}
+.cid-rAhMb30mfi .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rAhMb30mfi .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rAhMiO4sDV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f7ed4a;
+}
+.cid-rAhMiO4sDV h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rAhMiO4sDV p {
+  color: #ffffff;
+}
+.cid-rAhMiO4sDV .card {
+  margin-bottom: 2rem;
+}
+.cid-rAhMiO4sDV .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-rAhMiO4sDV .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-rAhMiO4sDV .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-rAhMiO4sDV .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rAhMiO4sDV .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-rAhMiO4sDV .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rAhMiO4sDV .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
 }
