@@ -1803,14 +1803,15 @@ body {
   color: #232323 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1134.jpg");
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
 .cid-qTkA127IK8 H1 {
   color: #f7ed4a;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
-  color: #efefef;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rAdK6KSVMU {
   padding-top: 30px;
