@@ -5786,7 +5786,7 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rAWOoJQTcB {
-  background-image: url("../../../assets/images/background41.jpg");
+  background-image: url("../../../assets/images/background42.jpg");
 }
 .cid-rB93YCang2 {
   padding-top: 15px;
@@ -6152,6 +6152,101 @@ body {
 .cid-rBkemGb2pc .mbr-text,
 .cid-rBkemGb2pc blockquote {
   color: #767676;
+}
+.cid-rBkomNuZBj {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rBkomNuZBj .image-block {
+  margin: auto;
+}
+.cid-rBkomNuZBj figcaption {
+  position: relative;
+}
+.cid-rBkomNuZBj figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBkomNuZBj .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rBkou56uBp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rBkou56uBp .mbr-text,
+.cid-rBkou56uBp blockquote {
+  color: #767676;
+}
+.cid-rBkoIUcxEO {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rBkoIUcxEO .image-block {
+  margin: auto;
+}
+.cid-rBkoIUcxEO figcaption {
+  position: relative;
+}
+.cid-rBkoIUcxEO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBkoIUcxEO .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rBkoHx3uCj {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rBkoHx3uCj .mbr-text,
+.cid-rBkoHx3uCj blockquote {
+  color: #767676;
+}
+.cid-rBkrvefyHS {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rBkrvefyHS .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rBkrvefyHS .mbr-content-text {
+  color: #767676;
+}
+.cid-rBkrvefyHS .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rBkrvefyHS .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rBkrvefyHS .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rBkrvefyHS .img-text {
+  color: #c1c1c1;
 }
 .cid-rBjnydSXqJ {
   padding-top: 0px;
